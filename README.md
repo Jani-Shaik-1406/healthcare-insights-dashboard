@@ -69,7 +69,7 @@ Two Excel sheets were used, containing detailed information on:
 
 ## 🖥️ Dashboard Snapshot
 
-![Hospital Insights Dashboard](![alt text](image.png))  
+![Hospital Insights Dashboard](![Hospital Insights Dashboard](dashboard.png))  
 
 
 ---
